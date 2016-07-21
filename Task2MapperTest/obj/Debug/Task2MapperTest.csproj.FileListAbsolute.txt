@@ -1,0 +1,7 @@
+D:\Vitali_Pantsialei\Mentoring\Mentoring2ExpressionsAndIQueryable\Task2MapperTest\obj\Debug\Task2MapperTest.csprojResolveAssemblyReference.cache
+D:\Vitali_Pantsialei\Mentoring\Mentoring2ExpressionsAndIQueryable\Task2MapperTest\bin\Debug\Task2MapperTest.dll
+D:\Vitali_Pantsialei\Mentoring\Mentoring2ExpressionsAndIQueryable\Task2MapperTest\bin\Debug\Task2MapperTest.pdb
+D:\Vitali_Pantsialei\Mentoring\Mentoring2ExpressionsAndIQueryable\Task2MapperTest\bin\Debug\Task2Mapper.dll
+D:\Vitali_Pantsialei\Mentoring\Mentoring2ExpressionsAndIQueryable\Task2MapperTest\bin\Debug\Task2Mapper.pdb
+D:\Vitali_Pantsialei\Mentoring\Mentoring2ExpressionsAndIQueryable\Task2MapperTest\obj\Debug\Task2MapperTest.dll
+D:\Vitali_Pantsialei\Mentoring\Mentoring2ExpressionsAndIQueryable\Task2MapperTest\obj\Debug\Task2MapperTest.pdb

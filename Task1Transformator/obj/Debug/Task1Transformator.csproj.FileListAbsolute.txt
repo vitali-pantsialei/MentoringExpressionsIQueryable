@@ -1,0 +1,5 @@
+D:\Vitali_Pantsialei\Mentoring\Mentoring2ExpressionsAndIQueryable\Task1Transformator\bin\Debug\Task1Transformator.dll
+D:\Vitali_Pantsialei\Mentoring\Mentoring2ExpressionsAndIQueryable\Task1Transformator\bin\Debug\Task1Transformator.pdb
+D:\Vitali_Pantsialei\Mentoring\Mentoring2ExpressionsAndIQueryable\Task1Transformator\obj\Debug\Task1Transformator.csprojResolveAssemblyReference.cache
+D:\Vitali_Pantsialei\Mentoring\Mentoring2ExpressionsAndIQueryable\Task1Transformator\obj\Debug\Task1Transformator.dll
+D:\Vitali_Pantsialei\Mentoring\Mentoring2ExpressionsAndIQueryable\Task1Transformator\obj\Debug\Task1Transformator.pdb
